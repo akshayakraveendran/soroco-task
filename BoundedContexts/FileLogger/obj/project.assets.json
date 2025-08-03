@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\FileLogger.csproj",
+      "projectUniqueName": "D:\\Project\\soroco-task\\BoundedContexts\\FileLogger\\FileLogger.csproj",
       "projectName": "FileLogger",
-      "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\FileLogger.csproj",
+      "projectPath": "D:\\Project\\soroco-task\\BoundedContexts\\FileLogger\\FileLogger.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\obj\\",
+      "outputPath": "D:\\Project\\soroco-task\\BoundedContexts\\FileLogger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -508,11 +508,11 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj": {
-              "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj"
+            "D:\\Project\\soroco-task\\BoundedContexts\\Metrics\\Metrics.csproj": {
+              "projectPath": "D:\\Project\\soroco-task\\BoundedContexts\\Metrics\\Metrics.csproj"
             },
-            "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj": {
-              "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj"
+            "D:\\Project\\soroco-task\\BoundedContexts\\Shared\\Shared.csproj": {
+              "projectPath": "D:\\Project\\soroco-task\\BoundedContexts\\Shared\\Shared.csproj"
             }
           }
         }

@@ -51,8 +51,7 @@ All layers communicate using DTOs (e.g., `SystemMetricsDTO`) to enforce separati
 ### Steps
 
 ```bash
-git clone https://github.com/your-username/SystemMonitor.git
-cd SystemMonitor
+clone this repo
 
 # Restore and build
 dotnet restore

@@ -317,11 +317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj",
+      "projectUniqueName": "D:\\Project\\soroco-task\\BoundedContexts\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj",
+      "projectPath": "D:\\Project\\soroco-task\\BoundedContexts\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\obj\\",
+      "outputPath": "D:\\Project\\soroco-task\\BoundedContexts\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -338,8 +338,8 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj": {
-              "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj"
+            "D:\\Project\\soroco-task\\BoundedContexts\\Metrics\\Metrics.csproj": {
+              "projectPath": "D:\\Project\\soroco-task\\BoundedContexts\\Metrics\\Metrics.csproj"
             }
           }
         }

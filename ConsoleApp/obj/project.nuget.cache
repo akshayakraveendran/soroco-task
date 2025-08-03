@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "haxn+24Peo4=",
+  "dgSpecHash": "hk7ezIjeuhk=",
   "success": true,
-  "projectFilePath": "D:\\Project\\system-monitor-hex\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "D:\\Project\\soroco-task\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
